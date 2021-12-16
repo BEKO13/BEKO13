@@ -1,5 +1,5 @@
 # てれってて某べこ
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+https://github-profile-trophy.vercel.app/?username=githBEKO13=gruvbox
 # ぺいPEIPayPay
 
 # 概要
