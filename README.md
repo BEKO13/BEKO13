@@ -1,5 +1,6 @@
 # てれってて某べこ
-https://github-profile-trophy.vercel.app/?username=githBEKO13
+[![trophy](https://github-profile-trophy.vercel.app/?username=githBEKO13ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # ぺいPEIPayPay
 
 # 概要
