@@ -11,8 +11,8 @@
 
 <h2>LINK</h2>
 <ul>
- <li><a herf="https://honi.club/@honiBEKO13">ほにーーッッ！！</a></li>
- <li><a herf="https://groundpolis.app/@ebiiBEKO13">魚ーーーッッ！！</a></li>
- <li><a herf=""></a></li>
- <li><a herf=""></a></li>
+ <li><a href="https://honi.club/@honiBEKO13">ほにーーッッ！！</a></li>
+ <li><a href="https://groundpolis.app/@ebiiBEKO13">魚ーーーッッ！！</a></li>
+ <li><a href=""></a></li>
+ <li><a href=""></a></li>
 </ul>
