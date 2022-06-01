@@ -7,11 +7,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=githBEKO13)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2>ぺいPEIPayPay</h2>
-<p>GitHubはじめましたのよ</p>
+<p>GitHubはじめましたの</p>
 <p>ブログやらミスキー鯖立てやら色々やりたいくせに環境が整っていないキモオタ</p>
  
 <h2>概要</h2>
 
-<h2>ぬぉっほほ</h2>
+<h2>前立腺</h2>
 
 <h2>LINK</h2>
+
+<p>ブックマーク代わりになっている可哀想なアカウントです</p>
